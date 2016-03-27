@@ -1,0 +1,20 @@
+{
+  "name": "BaconJS-Docs",
+  "version": "1.0.0",
+  "description": "A singular (at present) effort to provide better docs for BaconJS, particularly around example snippets to help people onboard with the awesomesauce that is BaconJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrennolan/BaconJS-Docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darrennolan/BaconJS-Docs/issues"
+  },
+  "homepage": "https://github.com/darrennolan/BaconJS-Docs#readme"
+}
