@@ -1,0 +1,2 @@
+## Creating Streams
+(.from*)
