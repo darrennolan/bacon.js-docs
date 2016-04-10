@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/darrennolan/BaconJS-Docs/issues"
   },
-  "homepage": "https://github.com/darrennolan/BaconJS-Docs#readme"
+  "homepage": "https://github.com/darrennolan/BaconJS-Docs#readme",
+  "dependencies": {
+    "baconjs": "^0.7.84"
+  }
 }
